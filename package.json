@@ -1,6 +1,7 @@
 {
-  "name": "react-example",
-  "private": true,
+  "name": "sovereign_shadow",
+  "private": false,
+  "homepage": "https://brusshamilton.github.io/sovereign_shadow/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
